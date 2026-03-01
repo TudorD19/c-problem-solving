@@ -3,3 +3,4 @@ app
 *.exe
 *.out
 .DS_Store
+bin/
